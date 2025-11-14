@@ -21,7 +21,7 @@ function RoomType({selectedRoomType}) {
     <SelectItem value="Kitchen">Kitchen</SelectItem>
     <SelectItem value="Bathroom">Bathroom</SelectItem>
     <SelectItem value="Office">Office</SelectItem>
-    <SelectItem value="Office">Other</SelectItem>
+    <SelectItem value="other">Other</SelectItem>
   </SelectContent>
 </Select>
     </div>
