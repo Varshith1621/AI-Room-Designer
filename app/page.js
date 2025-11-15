@@ -57,12 +57,7 @@ export default function Home() {
               </svg>
             </Link>
             
-            <button className="inline-flex justify-center items-center gap-x-3 text-center bg-white dark:bg-neutral-800 hover:bg-gray-50 dark:hover:bg-neutral-700 border border-gray-200 dark:border-neutral-700 text-gray-800 dark:text-neutral-200 text-sm md:text-base font-semibold rounded-lg focus:outline-none focus:ring-2 focus:ring-gray-300 py-3.5 px-6 md:py-4 md:px-8 shadow-md hover:shadow-lg transform hover:scale-105 transition-all duration-300">
-              <svg className="flex-shrink-0 size-5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <polygon points="5 3 19 12 5 21 5 3"/>
-              </svg>
-              Watch Demo
-            </button>
+            
           </div>
           
           {/* Trust Indicators */}
